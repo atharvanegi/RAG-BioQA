@@ -45,9 +45,9 @@ RAG-BioQA is a domain-specific, retrieval-augmented generation (RAG) framework d
 ## 👨‍💻 Authors
 
 - Lovely Yeswanth Panchumarthi  
+- Atharva Negi   
+- Harsit Upadhya
 - Sai Prasad Gudari  
-- Atharva Negi  
-- Harsit Upadhya  
 *(All from Emory University)*
 
 ## Project Report
