@@ -22,10 +22,12 @@ RAG-BioQA is a domain-specific, retrieval-augmented generation (RAG) framework d
 
 ## 🏗️ System Architecture
 
-### Diagram 1:<img width="856" alt="Screenshot 2025-05-10 at 4 04 24 PM" src="https://github.com/user-attachments/assets/51f9af3d-4b2b-49fb-b6de-038a3c975fbc" />
+### Diagram 1:
+<img width="856" alt="Screenshot 2025-05-10 at 4 04 24 PM" src="https://github.com/user-attachments/assets/51f9af3d-4b2b-49fb-b6de-038a3c975fbc" />
 
 
-### Diagram 2:<img width="979" alt="Screenshot 2025-05-10 at 4 04 40 PM" src="https://github.com/user-attachments/assets/f7fc82f4-adfb-4ae9-a195-0bd90fd15c71" />
+### Diagram 2:
+<img width="856" alt="Screenshot 2025-05-10 at 4 04 40 PM" src="https://github.com/user-attachments/assets/f7fc82f4-adfb-4ae9-a195-0bd90fd15c71" />
 
 
 
